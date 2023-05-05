@@ -1,0 +1,27 @@
+[
+  {
+    "libraryIdentifier" : "0f58519eac224067b63bd278f4cd7f5d",
+    "format" : "model",
+    "displayName" : "SpiderMan.usdz"
+  },
+  {
+    "libraryIdentifier" : "322f06b5b89a09d0eb22006e9b48399d",
+    "format" : "model",
+    "displayName" : "Venom.usdz"
+  },
+  {
+    "libraryIdentifier" : "6c31d4e8b81edb8f510855906a56dfd7",
+    "format" : "model",
+    "displayName" : "Vulture.usdz"
+  },
+  {
+    "libraryIdentifier" : "beba9f84d8b7ea3ec5846da1ee789bcd",
+    "format" : "model",
+    "displayName" : "SpiderBot1.usdz"
+  },
+  {
+    "libraryIdentifier" : "51916c7c03661d309fe1bd1504d8ccb7",
+    "format" : "model",
+    "displayName" : "Wings.usdz"
+  }
+]
